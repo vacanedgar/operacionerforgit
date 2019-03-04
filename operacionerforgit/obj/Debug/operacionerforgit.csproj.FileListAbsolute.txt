@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\operacionerforgit\operacionerforgit\bin\Debug\operacionerforgit.exe.config
+C:\Users\Administrador\source\repos\operacionerforgit\operacionerforgit\bin\Debug\operacionerforgit.exe
+C:\Users\Administrador\source\repos\operacionerforgit\operacionerforgit\bin\Debug\operacionerforgit.pdb
+C:\Users\Administrador\source\repos\operacionerforgit\operacionerforgit\obj\Debug\operacionerforgit.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\operacionerforgit\operacionerforgit\obj\Debug\operacionerforgit.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\operacionerforgit\operacionerforgit\obj\Debug\operacionerforgit.exe
+C:\Users\Administrador\source\repos\operacionerforgit\operacionerforgit\obj\Debug\operacionerforgit.pdb

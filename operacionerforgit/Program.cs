@@ -16,7 +16,9 @@ namespace operacionerforgit
             Console.WriteLine("Numero Dos");
             short numdos = short.Parse(Console.ReadLine());
 
-
+            //ya tenemos creada la aplicacion de escritorio que por ahora solicita dos numeros enteros
+            //voy a guardar los cambios los cuales van a ser empaquetados (versionados )en un primer 
+            //commit con git//
 
 
             Console.ReadLine();
